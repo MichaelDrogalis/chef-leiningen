@@ -1,4 +1,4 @@
-name             "leiningen"
+name             "lein"
 maintainer       "Max Prokopiev"
 maintainer_email "me@maxprokopiev.com"
 license          "Apache 2.0"
